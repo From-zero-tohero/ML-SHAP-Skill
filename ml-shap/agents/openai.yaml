@@ -1,0 +1,4 @@
+interface:
+  display_name: "ML-SHAP 全流程分析"
+  short_description: "完成表格分类或回归、时序验证、模型解释与论文级结果交付"
+  default_prompt: "Use $ml-shap to run a complete, leakage-aware machine-learning and SHAP analysis on my tabular dataset."
