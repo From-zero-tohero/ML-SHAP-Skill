@@ -170,3 +170,16 @@ If task type or validation structure is uncertain, the skill audits the data and
 ## License
 
 No license has been specified yet. Add a license before redistributing or incorporating the skill into another project.
+
+## Example
+<img width="2309" height="1998" alt="02_correlation_matrix" src="https://github.com/user-attachments/assets/a644591c-93b1-4dbe-9520-d248c5ee70bd" />
+<img width="2969" height="1168" alt="01_time_series_split" src="https://github.com/user-attachments/assets/3458975d-34fe-4fd4-a8f4-2a75ebb2f503" />
+<img width="2001" height="1468" alt="09_interaction_surface" src="https://github.com/user-attachments/assets/97896a45-a6c4-4f87-b6ef-6b61674b0365" />
+<img width="2070" height="1409" alt="07_beeswarm_style_permutation_importance" src="https://github.com/user-attachments/assets/b6eb2bce-a533-4c67-a0a9-0813f4073a09" />
+<img width="2070" height="1408" alt="06_permutation_importance" src="https://github.com/user-attachments/assets/bf6c67ca-7827-45ab-8ffd-355c7854f971" />
+<img width="2969" height="1168" alt="05_residual_diagnostics" src="https://github.com/user-attachments/assets/5ecbdf0d-f1b8-45c9-ae70-b0520430a84a" />
+<img width="3269" height="1227" alt="04_predictions" src="https://github.com/user-attachments/assets/39da1ec5-5db1-45e3-9523-35bee9d0d450" />
+<img width="2374" height="1408" alt="03_model_comparison" src="https://github.com/user-attachments/assets/114c35b2-5cea-4eba-b8d5-e7a4620a1c3f" />
+<img width="2969" height="2068" alt="08_partial_dependence" src="https://github.com/user-attachments/assets/261b17e5-f600-416d-9339-082339ecd137" />
+
+
