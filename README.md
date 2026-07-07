@@ -172,6 +172,18 @@ If task type or validation structure is uncertain, the skill audits the data and
 No license has been specified yet. Add a license before redistributing or incorporating the skill into another project.
 
 ## Example
+上传时可以这样说明：
+```text
+Excel文件：data.xlsx
+工作表：Sheet1
+输出变量：CarbonEmission
+输入变量：GDP、Population、Temperature、Urbanization
+任务类型：回归
+时间变量：Year
+地区变量：City
+不参与建模：CityName、备注
+研究重点：识别GDP的非线性影响和阈值
+```
 <img width="2309" height="1998" alt="02_correlation_matrix" src="https://github.com/user-attachments/assets/a644591c-93b1-4dbe-9520-d248c5ee70bd" />
 <img width="2969" height="1168" alt="01_time_series_split" src="https://github.com/user-attachments/assets/3458975d-34fe-4fd4-a8f4-2a75ebb2f503" />
 <img width="2001" height="1468" alt="09_interaction_surface" src="https://github.com/user-attachments/assets/97896a45-a6c4-4f87-b6ef-6b61674b0365" />
